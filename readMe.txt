@@ -1,0 +1,2 @@
+it includes table with data of students which are created as objects and putted in Array in JS. Which is displayed into Tables by the help of JS.
+There is too a search button which searches through roll no and produce a result in terms of table too.

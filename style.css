@@ -1,0 +1,23 @@
+table {
+    border: 1px solid black;
+    
+    border-collapse:separate;
+    margin-top: 0px;
+ 
+}
+
+td{
+    width: 100px;
+}
+thead{
+    background-color: grey;
+    height: 40px;
+}
+
+.inputPosition{
+    margin-left: 30%;
+}
+
+.table123{
+    margin-top: -29px;
+}
